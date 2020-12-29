@@ -4,8 +4,7 @@ import BlogPosts from '../Components/BlogPosts';
 
 function Chat() {
     return (
-        <Container>
-           
+        <Container>         
             <Row>
                 <Col>
                     <h1>Meow blog</h1>

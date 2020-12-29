@@ -12,8 +12,9 @@ function Header() {
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="mr-auto">
       <Nav.Link as={Link} to="/" exact href="#home">Home</Nav.Link>
-      <Nav.Link as={Link} to="/Articles" href="#articles">Articles</Nav.Link>
-      <Nav.Link as={Link} to="/Chat" href="#chat">Chat</Nav.Link>
+      <Nav.Link as={Link} to="/articles" href="#articles">Articles</Nav.Link>
+      <Nav.Link as={Link} to="/chat" href="#chat">Chat</Nav.Link>
+      <Nav.Link as={Link} to="/registration" href="#registration">Registration</Nav.Link>
       <Nav.Link as={Link} to="/about-us" href="#about">About us</Nav.Link>
     </Nav>
   </Navbar.Collapse>

@@ -12,7 +12,7 @@ function Directions() {
                 <Col xs={6}>
                     <Card.Title>Wanna find me?</Card.Title>
                     <Card.Text>
-                    Asdflkjaertvlkjasntvkjn (sits on keyboard) claw drapes, and destroy house in 5 seconds stare at ceiling, so ptracy meowing chowing and wowing or put toy mouse in food bowl run out of litter box at full speed . Instead of drinking water from the cat bowl, make sure to steal water from the toilet touch my tail, i shred your hand purrrr. 
+                    Asdflkjaertvlkjasntvkjn (sits on keyboard) claw drapes, and destroy house in 5 seconds stare at ceiling, so ptracy meowing chowing and wowing or put toy mouse in food bowl run out of litter box at full speed . Instead of drinking water from the cat bowl, make sure to steal water from the toilet. 
                     </Card.Text>
                 </Col>
             </Row>

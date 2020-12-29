@@ -9,6 +9,7 @@ import Articles from './Pages/Articles'
 import Article1 from './Pages/Article1'
 import Article2 from './Pages/Article2'
 import Article3 from './Pages/Article3'
+import RegistrationPage from './Pages/RegistrationPage';
 
 function App() {
   return (
@@ -34,6 +35,9 @@ function App() {
               </Route>
               <Route path="/chat"> 
                 <Chat/>
+                </Route>
+              <Route path="/registration"> 
+                <RegistrationPage/>
               </Route>
               <Route path="/about-us"> 
                 <AboutUs/>
