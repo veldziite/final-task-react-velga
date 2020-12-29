@@ -1,4 +1,3 @@
-
 import { Container, Row, Col } from 'react-bootstrap';
 import Lightbox from '../Components/Lightbox';
 
@@ -16,7 +15,6 @@ function Article1() {
                 <p> Your pillow is now my pet bed cough so refuse to leave cardboard box flex claws on the human's belly and purr like a lawnmower humans,humans, humans oh how much they love us felines we are the center of attention they feed, they clean . Use lap as chair taco cat backwards spells taco cat mew scratch my tummy actually i hate you now fight me. Let me in let me out let me in let me out let me in let me out who broke this door anyway and sometimes switches in french and say "miaou" just because well why not and poop on the floor, break a planter, sprint, eat own hair, vomit hair, hiss, chirp at birds, eat a squirrel, hide from fireworks, lick toe beans, attack christmas tree sit by the fire catty ipsum. Adventure always. Human give me attention meow litter box is life what a cat-ass-trophy!, or push your water glass on the floor stretch, but fat baby cat best buddy little guy. Chew master's slippers. Meow to be let out.</p>
                 </Col>
             </Row>
-
         </Container>
     );
 }

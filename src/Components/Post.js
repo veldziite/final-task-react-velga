@@ -2,7 +2,8 @@ import moment from 'moment';
 
 function PostEntry ({ entry }) {
     const timeStamp = entry.createdAt;
-    const time = moment(timeStamp).startOf('hour').fromNow();  
+    const time = moment(timeStamp).startOf('hour').fromNow();
+      
     return (
         <li className="list-group-item">
             <div>

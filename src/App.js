@@ -4,7 +4,7 @@ import Header from './Components/Header';
 import Footer from './Components/Footer';
 import AboutUs from './Pages/AboutUs';
 import Home from './Pages/Home'
-import Chat from './Pages/Chat'
+import Blog from './Pages/Blog'
 import Articles from './Pages/Articles'
 import Article1 from './Pages/Article1'
 import Article2 from './Pages/Article2'
@@ -33,8 +33,8 @@ function App() {
               <Route path="/article3"> 
                 <Article3/>
               </Route>
-              <Route path="/chat"> 
-                <Chat/>
+              <Route path="/blog"> 
+                <Blog/>
                 </Route>
               <Route path="/registration"> 
                 <RegistrationPage/>

@@ -13,7 +13,7 @@ function Header() {
     <Nav className="mr-auto">
       <Nav.Link as={Link} to="/" exact href="#home">Home</Nav.Link>
       <Nav.Link as={Link} to="/articles" href="#articles">Articles</Nav.Link>
-      <Nav.Link as={Link} to="/chat" href="#chat">Chat</Nav.Link>
+      <Nav.Link as={Link} to="/blog" href="#chat">Blog</Nav.Link>
       <Nav.Link as={Link} to="/registration" href="#registration">Registration</Nav.Link>
       <Nav.Link as={Link} to="/about-us" href="#about">About us</Nav.Link>
     </Nav>

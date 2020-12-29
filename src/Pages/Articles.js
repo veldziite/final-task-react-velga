@@ -16,8 +16,7 @@ function Articles() {
              <Row className="mt-3">
                 <HorizontalCard/>
              </Row>
-        </Container>
-        
+        </Container> 
     );
 }
 

@@ -13,7 +13,8 @@ function RegistrationPage() {
                 <Card.Header className="text-center">Register to get much info about how cool I am <FontAwesomeIcon icon={faPaw}/></Card.Header>  
                 <Card.Body>
                     <Row>
-                        <Col><Card.Img src={Card1} variant="top" />
+                        <Col>
+                            <Card.Img src={Card1} variant="top" />
                         </Col>
                         <Col xs={8}>
                             <Card.Title className="text-muted">Put in some info about yourself. Or not. I don't care..</Card.Title>

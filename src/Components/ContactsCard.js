@@ -8,7 +8,8 @@ function HorizontalCard3() {
         <Card.Header>Meow</Card.Header>  
         <Card.Body>
             <Row>
-                <Col><Card.Img variant="top" src={Card3} style={{ width: '18rem' }} />
+                <Col>
+                    <Card.Img variant="top" src={Card3} style={{ width: '18rem' }} />
                 </Col>
                 <Col xs={8}>
                     <Card.Title>Why would you want to contact me?</Card.Title>

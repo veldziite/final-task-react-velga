@@ -24,12 +24,11 @@ function AboutUs() {
             </Row>
             <Row className="mt-3">
                 <Col>
-                <MyMap className="stubborn-element" />
+                    <MyMap />
                 </Col>
                 <Col md={8}>
-                <Directions />
-                </Col>
-                
+                <   Directions />
+                </Col>         
             </Row>           
         </Container>     
     );

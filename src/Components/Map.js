@@ -9,6 +9,7 @@ class MyMap extends Component {
             width: '300px',
             height: '300px'
             }
+            
         return (
             <Row>
                 <Map 
